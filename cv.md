@@ -2,8 +2,9 @@
 layout: page
 title: CV
 permalink: /cv/
+group: "navigation"
 ---
 
-Download [PDF version](http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf). The PDF should be embedded underneath -- uses Google Docs for embedding and works if the PDF is on dropbox. Works sporadically if PDF is elsewhere too.
+Download [PDF version](https://drive.google.com/drive/folders/1lTn5cHkVezYTWSwZxu8IwMuWTXWKIpvN/).
 
-{% include embedpdf.html source="http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf" width=100 height=800 %}
+{% include embedpdf.html source="https://drive.google.com/drive/folders/1lTn5cHkVezYTWSwZxu8IwMuWTXWKIpvN/preview" width=100 height=800 %}
