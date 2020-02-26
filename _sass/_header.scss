@@ -21,8 +21,16 @@
     letter-spacing: 1px;
 }
 
+.site-title a{
+    color: red;
+}
+
 .site-nav {
     background: $background;
+}
+
+.active a{
+  color: $url-color;
 }
 
 .site-nav ul {
