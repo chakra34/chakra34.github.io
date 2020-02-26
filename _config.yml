@@ -1,11 +1,11 @@
-title: Srihari Sundar
-description: My corner of the internet
-sourcecode: "https://github.com/sriharisundar/sriharisundar.github.io"
+title: Aritra Chakraborty
+description: A little bit abut myself
+sourcecode: "https://github.com/chakra34/chakra34.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "http://sriharisundar.github.io"     # the base hostname & protocol for your site
+url: "http://chakra34.github.io"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
